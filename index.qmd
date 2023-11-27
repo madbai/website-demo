@@ -1,11 +1,21 @@
 ---
-title: "website-demo"
+title: "Lola Dog"
+image: Lola.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/loladog/
+    - text: Twitter
+      href: https://twitter.com/loladog
+    - text: GitHub
+      href: https://github.com/loladog
+    - text: Email
+      href: mailto:loladog@colostate.edu
 ---
 
-This is a Quarto website.
+**Education:**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+-   Masters in Being Cute
